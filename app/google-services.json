@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "882560599502",
+    "project_id": "bekristof-53fcc",
+    "storage_bucket": "bekristof-53fcc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:882560599502:android:6327d2b86aaf693827579f",
+        "android_client_info": {
+          "package_name": "com.codmine.bekristof"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "882560599502-qlgipo0ntu189dd0kdkkhqkfsljkujjp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxvpdaIgnDD2P5j3UYa2gkr4X-bwp8yUA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "882560599502-qlgipo0ntu189dd0kdkkhqkfsljkujjp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
